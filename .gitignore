@@ -1,0 +1,11 @@
+Binaries
+Build
+DerivedDataCache
+Intermediate
+Saved
+*.sdf
+*.sln
+*.suo
+*.opensdf
+ThirdParty/elias/
+Plugins/FMODStudio/

@@ -1,0 +1,21 @@
+{
+    "FileVersion" : 3,
+    "FriendlyName" : "Elias Plugin",
+    "Version" : 1,
+    "VersionName": "1.0",
+	"EngineVersion" : "4.7.0",
+    "Description" : "Description goes here",
+    "Category" : "Elias",
+    "CreatedBy" : "Banbury",
+    "CreatedByURL" : "http://banbury.bootes.uberspace.de",
+    "CanContainContent" : "true",
+
+    "Modules" :
+    [
+        {
+            "Name" : "EliasPlugin",
+            "Type" : "Editor",
+            "LoadingPhase" : "PreDefault"
+        } 
+    ]
+}

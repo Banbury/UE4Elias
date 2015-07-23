@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.8",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "EliasTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CoreUObject",
+				"Engine",
+				"UnrealEd"
+			]
+		},
+        {
+            "Name" : "EliasPlugin",
+            "Type" : "Editor",
+            "LoadingPhase" : "PreDefault"
+        } 
+
+	]
+}
