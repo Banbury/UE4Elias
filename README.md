@@ -21,6 +21,8 @@ UE4Elias is a plugin for Unreal Engine 4, that plays music created in ELIAS Comp
 - Right click `EliasTest.uproject` and click on `Generate Visual Studio project files`
 
 ## Usage
+[Tutorial video](https://vimeo.com/133880524)
+
 Open the Visual Studio solution in Visual Studio 2013 and compile it. 
 You can now open the EliasTest project in Unreal Engine 4.
 
